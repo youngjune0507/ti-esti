@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Foam cache
+.foam/
